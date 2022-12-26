@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AProgrammRe/Aprogrammre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on Unity & Roblox games
 - 🌱 I’m currently learning about Photon Fusion...
@@ -11,4 +8,3 @@
 - 📫 How to reach me: aprogrammre@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk, mate
--->
