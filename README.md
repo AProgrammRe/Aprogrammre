@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Unity & Roblox games
+- 🔭 I’m currently working on Unity & Roblox plugins
+> 2 unity games
+> Gun Plugin for roblox
+
 - 🌱 I’m currently learning about Photon Fusion...
 - 🤔 I’m looking for help with.. figure things out
 - 💬 Ask me about having a roblox scripter or smth, idk
